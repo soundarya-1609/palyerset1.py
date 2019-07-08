@@ -1,0 +1,2 @@
+devi=input()
+print(devi+'.')
